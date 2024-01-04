@@ -1,4 +1,4 @@
-# Starter code - OpenClassrooms WPS | P3
+ 
 
 This repository contains the work that has been done so far on the chess tournament program.
 
